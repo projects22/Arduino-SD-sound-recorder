@@ -8,3 +8,4 @@ sd_wave FAT32, file name: w1.wav .
 recording appends to end of file.
 Sound quality low.
 
+for more details: http://www.moty22.co.uk/sd.php
